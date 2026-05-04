@@ -3,9 +3,9 @@ Deep Learning Based Demographic & Psychographic Analysis System
 This project was developed to analyze user profiles on the popular dating platform OKCupid to predict which generation (Gen X, Millennial, or Gen Z) an individual belongs to based on their demographic data and profile essays.
 
 🔗 Project Links
-Hugging Face Application: OKCupid-Gen-Predictor
+Hugging Face Application: https://huggingface.co/spaces/zeynepptkn/OKCupid-Gen-Predictor
 
-GitHub Repository: OKCupid-Generation-Analysis
+GitHub Repository: https://github.com/ZeynepTekin-DS/OKCupid-Gen-Predictor
 
 📖 Project Summary
 This study predicts generational affiliation by analyzing physical attributes, lifestyle choices (alcohol, smoking, diet), and specific word choices in profile essays. By processing a massive feature set of over 10,000 variables, the project provides a data-driven look at how digital footprints vary characteristically across different age groups[cite: 2].
